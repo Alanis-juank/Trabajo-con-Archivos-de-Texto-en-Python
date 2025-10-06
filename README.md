@@ -1,5 +1,5 @@
 
-# Abrimos el archivo en modo lectura ('r')
+# Abrimos el archhttps://github.com/Alanis-juank/Trabajo-con-Archivos-de-Texto-en-Python/issuesivo en modo lectura ('r')
 archivo = open("my_notes.txt", "r")
 
 # Leemos el contenido línea por línea usando readline()
